@@ -1,5 +1,5 @@
 # access-api
-Simple Python to call a json API
+Simple Python 3 to call a json API
 
 The non-profit MuckRock helps journalists and citizens access public information using Freedom of Information Act requests. So, I called the statistics on FOIA requests from their API, accessible without a token.
 
